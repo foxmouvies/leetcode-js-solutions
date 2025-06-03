@@ -15,9 +15,6 @@ leetcode-js-solutions/
 │
 └── README.md
 
-yaml
-Copy
-Edit
 
 ---
 
